@@ -1,0 +1,23 @@
+.projects{
+   text-align: center;
+   padding-top: 100px;
+   background:  #c9c9ab;
+   padding-bottom: 30px;
+}
+hr{
+   width: 40px;
+   height: 3px;
+   background: red;
+  margin-top: -40px;
+}
+h2{
+   margin-bottom: 50px;
+}
+.project-card{
+   width: 500px;
+}
+.proj{
+ /* width: 500px; */
+ align-items: center;
+ justify-items: center;
+}

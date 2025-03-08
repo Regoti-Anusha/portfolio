@@ -1,0 +1,37 @@
+.contact{
+    margin-top: 0px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+hr{
+    width: 30px;
+    height: 3px;
+    background: red;
+}
+
+form {
+    width: 300px;
+    margin: 50px auto;
+    justify-items: center;
+  }
+  input, textarea {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px; 
+  }
+  textarea{
+    height: 150px;
+    width: 350px;
+  }
+  button{
+    width: 150px;
+    background: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 20px;
+  }
+  button:hover{
+    background: red;
+    color: white;
+    border: 1px solid red;
+  }

@@ -1,0 +1,21 @@
+  .skills ul{
+     justify-items: center;  
+     padding-bottom: 50px;
+     line-height: 30px;
+     list-style: none;
+     margin-left: -50px;
+  }
+  .skills{
+   margin-top: 20px;
+   padding-top: 80px;
+   background:  #c9c9ab ;
+   height: 100vh;
+  }
+  hr{
+   width: 20px;
+   height: 3px;
+   background: red;
+  }
+  h2{
+   color: black;
+  }

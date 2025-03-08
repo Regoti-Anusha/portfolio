@@ -1,0 +1,22 @@
+nav{
+    width: 100vw;
+    margin-top: 0px;
+    position: fixed;
+    top: 0;
+    font-family: "Poppins", sans-serif;
+}
+.nav{
+    background-color: #D35400;
+    /* margin-top: -170px; */
+}
+nav ul{
+    display: flex;
+    cursor: pointer;
+}
+nav ul li{
+    margin-right: 10px;
+
+}
+nav ul:hover{
+    color: blue;
+}
